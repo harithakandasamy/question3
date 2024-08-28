@@ -1,0 +1,79 @@
+
+.container{
+	height: 100vh;
+	width: 100%;
+}
+.logo{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+.content1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 0%;
+	font-size: 25px;
+	text-align: left;
+}
+/*.fa-layer-group{
+	height: 8vh;
+	width: 5%;
+	border: 0px solid;
+	position: relative;
+	top: -160px;
+	left: 30px;
+	font-size: 2.5rem;
+	padding: 3px;
+	align-self: center;
+	color: purple;
+}
+.fa-arrows-left-right{
+	height: 8vh;
+	width: 5%;
+	border: 0px solid;
+	position: absolute;
+	top: 290px;
+	left: 330px;
+	font-size: 2.5rem;
+	padding: 3px;
+	align-self: center;
+	color: purple;
+}
+.fa-border-none{
+	height: 8vh;
+	width: 5%;
+	border: 0px solid;
+	position: absolute;
+	top: 400px;
+	left: 330px;
+	font-size: 2.5rem;
+	padding: 3px;
+	align-self: center;
+	color: purple;
+}
+.fa-desktop{
+	height: 8vh;
+	width: 5%;
+	border: 0px solid;
+	position: absolute;
+	top: 510px;
+	left: 330px;
+	font-size: 2.5rem;
+	padding: 3px;
+	align-self: center;
+	color: purple;
+}
+.fa-calendar-days{
+	height: 8vh;
+	width: 5%;
+	border: 0px solid;
+	position: absolute;
+	top: 610px;
+	left: 330px;
+	font-size: 2.5rem;
+	padding: 3px;
+	align-self: center;
+	color: purple;
+}
+*/
